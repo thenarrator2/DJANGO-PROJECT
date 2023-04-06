@@ -9,3 +9,4 @@ cursorObject = dataBase.cursor()
 
 cursorObject.execute("CREATE DATABASE elderco")
 print('all done')
+print('change commit print statement')
